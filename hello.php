@@ -1,5 +1,7 @@
 <html>
-<head><title>php test</title></head>
+<head>
+<title>php test</title>
+</head>
 
 <body>
 
